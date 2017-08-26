@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel， by samubra！
+                    你好，世界！我是samubra！
                 </div>
 
             </div>
