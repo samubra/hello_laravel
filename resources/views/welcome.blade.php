@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    你好，世界！我是samubra！
+                    你好，世界！我是<?php echo getenv('APP_NAME');?> !
                 </div>
 
             </div>
